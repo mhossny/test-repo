@@ -3,6 +3,10 @@
 #+BEGIN_SRC emacs-lisp
 (print "Hello World!!")
 #+END_SRC
+
+#+RESULTS:
+: Hello World!!
+
 ** poqiwe
 *** lksjdf
 **** ,mxncv
