@@ -6,15 +6,15 @@ adsf vcxzvzxcv cxvafev qeverv ervq erv erverv sdvc dsfv sdfv sdfv sfdv
 sdfv dsfv dfv sfdv fdv efv fev wefvsfv dfv dfvdfv fedvdfv fedvdewv efv
 efvwev efve 
 * 029834
-#+BEGIN_SRC emacs-lisp :export both :results output drawer
+#+BEGIN_SRC emacs-lisp :export both :results output org
 (print "Hello Worldeeee!!")
 #+END_SRC
 
 #+RESULTS:
-:results:
+#+begin_src org
 
 "Hello Worldeeee!!"
-:end:
+#+end_src
 
 ** poqiwe
 *** lksjdf
